@@ -22,3 +22,5 @@ Credit Card Defaulter Project
 12. Build Docker image: docker build -t <imgname>:<tagname> .
 13. create CI/CD at Heroku.
 14. Create a folder and init.py , setup.py.
+15. folder name=package, .py file= module, findpackages return packages where __init__ file is present.
+16. To run "-e ." , we need to have setup.py file
